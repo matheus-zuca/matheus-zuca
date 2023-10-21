@@ -29,6 +29,5 @@ Aqui algumas das tecnologias que tenho estudado atualmente
 
 
 <div align="center" style="display: inline_block">
- <a href="https://github.com/GiselleBarbosa">
   <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Zuca&layout=compact&langs_count=7&theme=dracula"/></a>
 </div> 
