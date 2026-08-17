@@ -31,7 +31,3 @@ Aqui algumas das tecnologias que estou buscando conhecer cada vez mais
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br><br><br>
-
-<div align="center" style="display: inline_block">
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Zuca&layout=compact&langs_count=7&theme=dracula"/></a>
-</div> 
